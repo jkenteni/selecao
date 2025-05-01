@@ -10,6 +10,7 @@ api/*.log
 # React / Frontend
 frontend/node_modules/
 frontend/dist/
+frontend/build/
 frontend/.env
 frontend/.env.local
 frontend/.DS_Store
@@ -26,5 +27,6 @@ yarn-error.log*
 # IDEs
 .vscode/
 .idea/
-# credenciais
+
+# Credenciais / arquivos manuais
 login.txt
