@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'dist', // Garante que o diretório de saída seja "dist"
   },
-  base: './', // Compatibilidade com Vercel
+  base: '/', // Alterado para '/' para compatibilidade com Vercel
 })

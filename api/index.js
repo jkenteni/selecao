@@ -10,4 +10,4 @@ app.use(express.json());
 app.use('/', router);
 
 // ✅ Vercel precisa de uma exportação com "handler"
-export default app;
+export default app; // Certifique-se de que isso está presente
